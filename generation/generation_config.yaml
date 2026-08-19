@@ -1,0 +1,20 @@
+seed: 20260805
+dataset_version: 2.0.0
+family_count: 200
+train_family_count: 160
+cases_per_family: 20
+native_contexts: 16
+native_providers: 8
+native_symbols: 6
+max_modules: 20
+max_queries: 28
+max_candidates: 8
+support_queries: 24
+max_contexts: 8
+feature_width: 14
+context_feature_width: 12
+probe_steps: 256
+probe_channels: 8
+behavior_bits: 16
+license: CC BY 4.0 with bundled Apache-2.0-WITH-LLVM-exception source excerpts
+generator: Native Shadow Namespace Capture and Anonymization Pipeline 2.0

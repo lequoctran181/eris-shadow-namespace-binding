@@ -1,0 +1,18 @@
+# Lightweight public snapshot: keep source/docs/challenge logic, exclude generated data artifacts.
+qa/
+raw/
+raw_v1_archive/
+raw_v2_archive/
+upload/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.log
+*.cache
+*.npz
+*.zip
+*.tar
+*.gz
+.DS_Store

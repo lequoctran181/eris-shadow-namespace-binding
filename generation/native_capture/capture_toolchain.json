@@ -1,0 +1,11 @@
+{
+  "capture_platform": "macOS-26.5.1-arm64-arm-64bit-Mach-O",
+  "clang": "Apple clang version 17.0.0 (clang-1700.3.19.1)\nTarget: arm64-apple-darwin25.5.0\nThread model: posix\nInstalledDir: /Library/Developer/CommandLineTools/usr/bin",
+  "collector": "collect_native_workflows.py",
+  "llvm_profile_root": "lld/test/ELF",
+  "llvm_project_commit": "9a793fd6d5ebd40bccd5d718c33f0a9dc29839c7",
+  "machine": "arm64",
+  "macos": "ProductName:\t\tmacOS\nProductVersion:\t\t26.5.1\nBuildVersion:\t\t25F80",
+  "python": "3.14.3",
+  "worker": "native_loader_worker.py"
+}

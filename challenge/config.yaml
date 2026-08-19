@@ -1,0 +1,15 @@
+challenge_name: Shadow Namespace Binding Ledger Induction
+metric_name: Chance-Corrected Binding Ledger Utility
+grade_direction: maximize
+min_score: 0.0
+max_score: 1.0
+submission_file: submission.csv
+answer_file: answers.csv
+submission_id_column: case_id
+submission_target_column: ledger_json
+runtime:
+  accelerator: CPU
+  cpu_cores: 10
+  memory_gb: 62
+  expected_training_minutes: 60
+  hard_time_limit_minutes: 90

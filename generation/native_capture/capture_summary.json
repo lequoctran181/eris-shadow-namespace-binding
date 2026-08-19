@@ -1,0 +1,17 @@
+{
+  "capture_npz_sha256": "6c32cc1f0ee2638b22f71797787b8ca1ac2b26a28534a7dc5e9bc72295f4dd3f",
+  "captured_events": 198400,
+  "contexts_per_family": 16,
+  "direct_dependency_provider_fraction": 0.252357645935299,
+  "event_log_sha256": "155a2513c95fdab17bc1a9abc3444884a95beddeb9d18b9c57acd15c96367e53",
+  "fixture_binary_manifest_sha256": "d228093ef7b6bf6ca8517692cd7850f4bc7eaa0bc763578e9f834b95c4d8d1de",
+  "isolated_loader_processes": 3200,
+  "native_dependency_edges": 1552,
+  "native_plugin_binaries_built": 1600,
+  "providers_per_family": 8,
+  "resolved_direct_fraction": 0.8726041666666666,
+  "resolved_root_fraction": 0.99734375,
+  "root_nonfirst_explicit_global_fraction": 0.49240169199436,
+  "symbols_per_family": 6,
+  "workflow_families": 200
+}
